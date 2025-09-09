@@ -1,0 +1,48 @@
+# Scene detection log for: results\Golden - KPop Demon Hunters\360p.mp4
+# FPS (detected): 23.976023976023978
+# Total frames processed: 4766
+
+CUT	frame:1	time:00:00:00.041
+CUT	frame:72	time:00:00:03.002
+CUT	frame:123	time:00:00:05.130
+CUT	frame:158	time:00:00:06.589
+CUT	frame:341	time:00:00:14.222
+CUT	frame:413	time:00:00:17.225
+CUT	frame:519	time:00:00:21.646
+CUT	frame:617	time:00:00:25.734
+CUT	frame:706	time:00:00:29.446
+CUT	frame:825	time:00:00:34.409
+CUT	frame:909	time:00:00:37.912
+CUT	frame:1088	time:00:00:45.378
+CUT	frame:1254	time:00:00:52.302
+CUT	frame:1379	time:00:00:57.515
+CUT	frame:1580	time:00:01:05.899
+CUT	frame:1650	time:00:01:08.818
+CUT	frame:1734	time:00:01:12.322
+CUT	frame:1829	time:00:01:16.284
+CUT	frame:1881	time:00:01:18.453
+CUT	frame:1936	time:00:01:20.747
+CUT	frame:1996	time:00:01:23.249
+CUT	frame:2125	time:00:01:28.630
+CUT	frame:2172	time:00:01:30.590
+CUT	frame:2223	time:00:01:32.717
+CUT	frame:3195	time:00:02:13.258
+CUT	frame:3288	time:00:02:17.137
+CUT	frame:3367	time:00:02:20.431
+CUT	frame:3488	time:00:02:25.478
+CUT	frame:3695	time:00:02:34.112
+CUT	frame:3729	time:00:02:35.530
+CUT	frame:3765	time:00:02:37.031
+CUT	frame:3871	time:00:02:41.452
+CUT	frame:3895	time:00:02:42.453
+CUT	frame:3939	time:00:02:44.289
+CUT	frame:3990	time:00:02:46.416
+CUT	frame:4025	time:00:02:47.876
+CUT	frame:4067	time:00:02:49.627
+CUT	frame:4199	time:00:02:55.133
+CUT	frame:4243	time:00:02:56.968
+CUT	frame:4271	time:00:02:58.136
+CUT	frame:4411	time:00:03:03.975
+CUT	frame:4458	time:00:03:05.935
+CUT	frame:4599	time:00:03:11.816
+CUT	frame:4703	time:00:03:16.154
